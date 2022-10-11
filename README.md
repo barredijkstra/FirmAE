@@ -11,7 +11,7 @@ Note that we tested FirmAE on Ubuntu 18.04.
 
 1. Clone `FirmAE`
 ```console
-git clone --recursive https://github.com/pr0v3rbs/FirmAE
+git clone https://github.com/hogeschoolnovi/FirmAE.git
 ```
 
 2. Run `download.sh` script.
