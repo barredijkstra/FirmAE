@@ -9,9 +9,9 @@ By running our tool on the succesfully emulation firmware images, we discovered 
 
 Note that we tested FirmAE on Ubuntu 18.04.
 
-1. Clone `FirmAE`
+1. Clone `FirmAE` (use '--recursive'!!)
 ```console
-git clone https://github.com/hogeschoolnovi/FirmAE.git
+git clone --recursive https://github.com/hogeschoolnovi/FirmAE.git
 ```
 
 2. Run `download.sh` script.
@@ -23,8 +23,8 @@ git clone https://github.com/hogeschoolnovi/FirmAE.git
 ```console
 ./install.sh
 ```
-
-# Usage
+IMPORTANT: before usage, run the following script:
+# Usage 
 
 1. Execute `init.sh` script.
 ```console
