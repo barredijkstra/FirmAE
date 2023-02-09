@@ -63,7 +63,7 @@ python3 -m pip install python-lzo cstruct ubi_reader
 sudo apt-get install -y python3-magic  openjdk-11-jdk unrar
 
 # for analyzer, initializer
-sudo apt-get install -y python3-bs4
+sudo apt-get install -y python3-bs4 libu2f-udev
 python3 -m pip install selenium
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo dpkg -i google-chrome-stable_current_amd64.deb; sudo apt-get -fy install
